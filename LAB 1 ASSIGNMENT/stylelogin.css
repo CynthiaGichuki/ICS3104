@@ -1,0 +1,34 @@
+.container{
+	text-align: center;
+	background-color: black;
+	opacity:0.7;
+	border:15px solid pink;
+}
+body{
+	background-color: #64485C;
+	background:url(background.jpg)
+	no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+	
+}
+.image{
+text-align:left;
+}
+.YES{
+	color: white;
+	background-color: black;
+	text-align: center;
+	width:300px;
+	height:300px;
+	opacity:0.7;
+	margin:0 auto;
+	border:15px solid #64485C; 
+	border:15px solid pink;
+
+}
+.logo{
+	text-align: left;
+}

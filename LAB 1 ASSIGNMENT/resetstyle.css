@@ -1,0 +1,19 @@
+body{
+	background-color:#64485C;
+	background:url(background.jpg)
+	no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.container{
+	text-align: center;
+	background-color: pink;
+	opacity: 0.9;
+	width:500px;
+	height:300px;
+	margin:0 auto;
+	border:15px solid black;
+}
